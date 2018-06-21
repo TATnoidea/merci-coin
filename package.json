@@ -1,0 +1,11 @@
+{
+  "name": "merci-coin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:TATnoidea/merci-coin.git",
+  "author": "chengzichao <chengzichao1995@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "1.10.0"
+  }
+}
